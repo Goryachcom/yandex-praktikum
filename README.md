@@ -75,12 +75,4 @@
     <td>python pandas SQLAlchemy Tableau Public</td>
   </tr> <!--ряд с ячейками тела таблицы-->
 
-  
-
-  
-
-  
-
-
-
 </table>
