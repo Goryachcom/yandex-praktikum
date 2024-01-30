@@ -67,14 +67,6 @@
     <td>pandas matplotlib seaborn numpy</td>
   </tr> <!--ряд с ячейками тела таблицы-->
 
-  <tr>
-    <td>№9</td>
-    <td><a href="https://github.com/Goryachcom/yandex-praktikum/blob/main/№9%20Автоматизация.ipynb">Автоматизация</a></td>
-    <td>Используя данные Яндекс.Дзена построить дашборд с метриками взаимодействия пользователей с карточками статей</td>
-    <td>Дашборд + Презентация</td>
-    <td>python pandas SQLAlchemy Tableau Public</td>
-  </tr> <!--ряд с ячейками тела таблицы-->
-
 </table>
 
 # Финальный проект
